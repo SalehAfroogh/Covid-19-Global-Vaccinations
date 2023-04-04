@@ -16,5 +16,4 @@ Email: safroogh@albany.edu
 ## Programming Projects
 On this page, you will find some of my programming projects, including those I completed during my MS in data science at the University of Austin.
 
-Here are some of my projects:
 
