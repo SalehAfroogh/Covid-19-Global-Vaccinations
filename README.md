@@ -10,6 +10,8 @@ Personal Website: https://salehafroogh.github.io/
 
 Google Scholar: https://scholar.google.com/citations?user=O_LtBagAAAAJ&hl=en 
 
+Public Tableau: https://public.tableau.com/app/profile/saleh.afroogh 
+
 Email: safroogh@albany.edu
 
 
