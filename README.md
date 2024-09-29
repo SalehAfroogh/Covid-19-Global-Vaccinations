@@ -4,7 +4,7 @@ Hi, I'm Saleh! I have a background in philosophy and data science. I'm a PhD can
 
 With over 8 years of research experience in interdisciplinary fields, my recent research projects have focused on the intersection of individual and social values, data, and machine learning.
 
-LinkedIn: https://www.linkedin.com/in/saleh-afroogh-a53887129/ 
+LinkedIn:: https://www.linkedin.com/in/saleh-afroogh-a53887129/ 
 
 Personal Website: https://salehafroogh.github.io/ 
 
