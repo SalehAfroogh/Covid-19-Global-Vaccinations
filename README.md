@@ -6,7 +6,7 @@ With over 8 years of research experience in interdisciplinary fields, my recent 
 
 LinkedIn: https://www.linkedin.com/in/saleh-afroogh-a53887129/ 
 
-Personal Website:: https://salehafroogh.github.io/ 
+Personal Website: https://salehafroogh.github.io/ 
 
 Google Scholar: https://scholar.google.com/citations?user=O_LtBagAAAAJ&hl=en 
 
