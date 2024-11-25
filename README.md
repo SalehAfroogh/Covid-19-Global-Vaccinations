@@ -20,4 +20,14 @@ Email: saleh.afroogh@utexas.edu
 ## Programming Projects
 On this page, you will find some of my programming projects, including those I completed during my MS in data science at the University of Austin.
 
+1- Cleaning Covid 19 Global_vaccinations data by SQL Queries 
+SQL SKILLS: Dropping columns, GROUP BY clause, Counting function, Converting data types, Updating data, Modifying column
+
+2- Exploration Covid 19 Global_vaccinations data by SQL Queries
+
+SQL SKILLS: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types
+
+Group By, Conditional logic, Union All, Subqueries, Ranking functions, Aliasing, Set operators, Case expressions, Date and time functions, Null handling functions, Full-text search functions, Analytic functions (used to perform, complex statistical analysis on data sets, such as ROW_NUMBER, RANK, DENSE_RANK, LEAD, and LAG)
+
+
 
