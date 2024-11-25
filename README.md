@@ -1,5 +1,5 @@
 
-## Some Programming Projects (SQL-Tableau)
+## Covid-19 Programming Projects (SQL-Tableau)
 
 1- Cleaning Covid 19 Global_vaccinations data by SQL Queries 
 SQL SKILLS: Dropping columns, GROUP BY clause, Counting function, Converting data types, Updating data, Modifying column
