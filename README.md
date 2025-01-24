@@ -12,8 +12,9 @@ Group By, Conditional logic, Union All, Subqueries, Ranking functions, Aliasing,
 
 ## Data Visualization Projects on Tableau 
 
-Public Tableau: [https://public.tableau.com/app/profile/saleh.afroogh ](https://public.tableau.com/app/profile/saleh.afroogh/viz/Covid-19VaccinationDashboard_16810656694790/Covid-19VaccinationDashboard)
+[https://public.tableau.com/app/profile/saleh.afroogh ](https://public.tableau.com/app/profile/saleh.afroogh/viz/Covid-19VaccinationDashboard_16810656694790/Covid-19VaccinationDashboard)
 
+https://public.tableau.com/app/profile/saleh.afroogh/viz/InequityandglobaldistributionofCOVID-19vaccines/Sheet1
 
 
 
