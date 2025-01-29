@@ -18,15 +18,6 @@ https://public.tableau.com/app/profile/saleh.afroogh/viz/Inequityandglobaldistri
 
 
 
-## More Informaion:
-
-LinkedIn: https://www.linkedin.com/in/saleh-afroogh-a53887129/ 
-
-Personal Website:: https://salehafroogh.github.io/ 
-
-Google Scholar:: https://scholar.google.com/citations?user=O_LtBagAAAAJ&hl=en 
-
-
 Email: saleh.afroogh@utexas.edu
 
 
